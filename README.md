@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Morty-Sanchez1
+- 👀 I’m interested in April Tag, Python, movies...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: researcher
+- ⚡ Fun fact: ...
+
+<!---
+Morty-Sanchez1/Morty-Sanchez1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Art, Science & love are the three most important things in the world. 
